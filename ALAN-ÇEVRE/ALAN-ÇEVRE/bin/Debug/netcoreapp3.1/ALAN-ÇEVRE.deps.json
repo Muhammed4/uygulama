@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ALAN-ÇEVRE/1.0.0": {
+        "runtime": {
+          "ALAN-ÇEVRE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ALAN-ÇEVRE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

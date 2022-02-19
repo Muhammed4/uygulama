@@ -1,0 +1,14 @@
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\bin\Debug\netcoreapp3.1\Cümledeki harf sayısı.exe
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\bin\Debug\netcoreapp3.1\Cümledeki harf sayısı.deps.json
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\bin\Debug\netcoreapp3.1\Cümledeki harf sayısı.runtimeconfig.json
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\bin\Debug\netcoreapp3.1\Cümledeki harf sayısı.runtimeconfig.dev.json
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\bin\Debug\netcoreapp3.1\Cümledeki harf sayısı.dll
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\bin\Debug\netcoreapp3.1\Cümledeki harf sayısı.pdb
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\obj\Debug\netcoreapp3.1\Cümledeki harf sayısı.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\obj\Debug\netcoreapp3.1\Cümledeki harf sayısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\obj\Debug\netcoreapp3.1\Cümledeki harf sayısı.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\obj\Debug\netcoreapp3.1\Cümledeki harf sayısı.AssemblyInfo.cs
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\obj\Debug\netcoreapp3.1\Cümledeki harf sayısı.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\obj\Debug\netcoreapp3.1\Cümledeki harf sayısı.dll
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\obj\Debug\netcoreapp3.1\Cümledeki harf sayısı.pdb
+C:\Users\muham\Desktop\PRATİKLER\Cümledeki harf sayısı\Cümledeki harf sayısı\obj\Debug\netcoreapp3.1\Cümledeki harf sayısı.genruntimeconfig.cache

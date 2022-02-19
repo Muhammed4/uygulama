@@ -1,0 +1,14 @@
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\bin\Debug\netcoreapp3.1\ALAN-ÇEVRE.exe
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\bin\Debug\netcoreapp3.1\ALAN-ÇEVRE.deps.json
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\bin\Debug\netcoreapp3.1\ALAN-ÇEVRE.runtimeconfig.json
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\bin\Debug\netcoreapp3.1\ALAN-ÇEVRE.runtimeconfig.dev.json
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\bin\Debug\netcoreapp3.1\ALAN-ÇEVRE.dll
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\bin\Debug\netcoreapp3.1\ALAN-ÇEVRE.pdb
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\obj\Debug\netcoreapp3.1\ALAN-ÇEVRE.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\obj\Debug\netcoreapp3.1\ALAN-ÇEVRE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\obj\Debug\netcoreapp3.1\ALAN-ÇEVRE.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\obj\Debug\netcoreapp3.1\ALAN-ÇEVRE.AssemblyInfo.cs
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\obj\Debug\netcoreapp3.1\ALAN-ÇEVRE.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\obj\Debug\netcoreapp3.1\ALAN-ÇEVRE.dll
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\obj\Debug\netcoreapp3.1\ALAN-ÇEVRE.pdb
+C:\Users\muham\Desktop\PRATİKLER\ALAN-ÇEVRE\ALAN-ÇEVRE\obj\Debug\netcoreapp3.1\ALAN-ÇEVRE.genruntimeconfig.cache
